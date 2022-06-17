@@ -1,0 +1,10 @@
+D:\C#\ÇALIŞMALAR\Rezervasyon_Inaktif\Rezervasyon_Inaktif\bin\Debug\Rezervasyon_Inaktif.exe.config
+D:\C#\ÇALIŞMALAR\Rezervasyon_Inaktif\Rezervasyon_Inaktif\bin\Debug\Rezervasyon_Inaktif.exe
+D:\C#\ÇALIŞMALAR\Rezervasyon_Inaktif\Rezervasyon_Inaktif\bin\Debug\Rezervasyon_Inaktif.pdb
+D:\C#\ÇALIŞMALAR\Rezervasyon_Inaktif\Rezervasyon_Inaktif\obj\Debug\Rezervasyon_Inaktif.Form1.resources
+D:\C#\ÇALIŞMALAR\Rezervasyon_Inaktif\Rezervasyon_Inaktif\obj\Debug\Rezervasyon_Inaktif.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Rezervasyon_Inaktif\Rezervasyon_Inaktif\obj\Debug\Rezervasyon_Inaktif.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Rezervasyon_Inaktif\Rezervasyon_Inaktif\obj\Debug\Rezervasyon_Inaktif.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Rezervasyon_Inaktif\Rezervasyon_Inaktif\obj\Debug\Rezervasyon_Inaktif.exe
+D:\C#\ÇALIŞMALAR\Rezervasyon_Inaktif\Rezervasyon_Inaktif\obj\Debug\Rezervasyon_Inaktif.pdb
+D:\C#\ÇALIŞMALAR\Rezervasyon_Inaktif\Rezervasyon_Inaktif\obj\Debug\Rezervasyon_Inaktif.csproj.AssemblyReference.cache

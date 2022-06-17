@@ -1,0 +1,10 @@
+D:\C#\ÇALIŞMALAR\Indirim_Hesaplama_Kutuphane\Indirim_Hesaplama_Kutuphane\obj\Debug\Indirim_Hesaplama_Kutuphane.csproj.AssemblyReference.cache
+D:\C#\ÇALIŞMALAR\Indirim_Hesaplama_Kutuphane\Indirim_Hesaplama_Kutuphane\obj\Debug\Indirim_Hesaplama_Kutuphane.Form1.resources
+D:\C#\ÇALIŞMALAR\Indirim_Hesaplama_Kutuphane\Indirim_Hesaplama_Kutuphane\obj\Debug\Indirim_Hesaplama_Kutuphane.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Indirim_Hesaplama_Kutuphane\Indirim_Hesaplama_Kutuphane\obj\Debug\Indirim_Hesaplama_Kutuphane.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Indirim_Hesaplama_Kutuphane\Indirim_Hesaplama_Kutuphane\obj\Debug\Indirim_Hesaplama_Kutuphane.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Indirim_Hesaplama_Kutuphane\Indirim_Hesaplama_Kutuphane\bin\Debug\Indirim_Hesaplama_Kutuphane.exe.config
+D:\C#\ÇALIŞMALAR\Indirim_Hesaplama_Kutuphane\Indirim_Hesaplama_Kutuphane\bin\Debug\Indirim_Hesaplama_Kutuphane.exe
+D:\C#\ÇALIŞMALAR\Indirim_Hesaplama_Kutuphane\Indirim_Hesaplama_Kutuphane\bin\Debug\Indirim_Hesaplama_Kutuphane.pdb
+D:\C#\ÇALIŞMALAR\Indirim_Hesaplama_Kutuphane\Indirim_Hesaplama_Kutuphane\obj\Debug\Indirim_Hesaplama_Kutuphane.exe
+D:\C#\ÇALIŞMALAR\Indirim_Hesaplama_Kutuphane\Indirim_Hesaplama_Kutuphane\obj\Debug\Indirim_Hesaplama_Kutuphane.pdb

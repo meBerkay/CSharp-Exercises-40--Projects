@@ -1,0 +1,10 @@
+D:\C#\ÇALIŞMALAR\YirmiDokuz_Ekim_1\YirmiDokuz_Ekim_1\bin\Debug\YirmiDokuz_Ekim_1.exe.config
+D:\C#\ÇALIŞMALAR\YirmiDokuz_Ekim_1\YirmiDokuz_Ekim_1\bin\Debug\YirmiDokuz_Ekim_1.exe
+D:\C#\ÇALIŞMALAR\YirmiDokuz_Ekim_1\YirmiDokuz_Ekim_1\bin\Debug\YirmiDokuz_Ekim_1.pdb
+D:\C#\ÇALIŞMALAR\YirmiDokuz_Ekim_1\YirmiDokuz_Ekim_1\obj\Debug\YirmiDokuz_Ekim_1.csproj.AssemblyReference.cache
+D:\C#\ÇALIŞMALAR\YirmiDokuz_Ekim_1\YirmiDokuz_Ekim_1\obj\Debug\YirmiDokuz_Ekim_1.Form1.resources
+D:\C#\ÇALIŞMALAR\YirmiDokuz_Ekim_1\YirmiDokuz_Ekim_1\obj\Debug\YirmiDokuz_Ekim_1.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\YirmiDokuz_Ekim_1\YirmiDokuz_Ekim_1\obj\Debug\YirmiDokuz_Ekim_1.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\YirmiDokuz_Ekim_1\YirmiDokuz_Ekim_1\obj\Debug\YirmiDokuz_Ekim_1.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\YirmiDokuz_Ekim_1\YirmiDokuz_Ekim_1\obj\Debug\YirmiDokuz_Ekim_1.exe
+D:\C#\ÇALIŞMALAR\YirmiDokuz_Ekim_1\YirmiDokuz_Ekim_1\obj\Debug\YirmiDokuz_Ekim_1.pdb

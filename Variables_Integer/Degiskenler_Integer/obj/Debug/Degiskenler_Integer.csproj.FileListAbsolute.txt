@@ -1,0 +1,9 @@
+D:\C#\ÇALIŞMALAR\Degiskenler_Integer\Degiskenler_Integer\obj\Debug\Degiskenler_Integer.Form1.resources
+D:\C#\ÇALIŞMALAR\Degiskenler_Integer\Degiskenler_Integer\obj\Debug\Degiskenler_Integer.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Degiskenler_Integer\Degiskenler_Integer\obj\Debug\Degiskenler_Integer.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Degiskenler_Integer\Degiskenler_Integer\obj\Debug\Degiskenler_Integer.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Degiskenler_Integer\Degiskenler_Integer\bin\Debug\Degiskenler_Integer.exe.config
+D:\C#\ÇALIŞMALAR\Degiskenler_Integer\Degiskenler_Integer\bin\Debug\Degiskenler_Integer.exe
+D:\C#\ÇALIŞMALAR\Degiskenler_Integer\Degiskenler_Integer\bin\Debug\Degiskenler_Integer.pdb
+D:\C#\ÇALIŞMALAR\Degiskenler_Integer\Degiskenler_Integer\obj\Debug\Degiskenler_Integer.exe
+D:\C#\ÇALIŞMALAR\Degiskenler_Integer\Degiskenler_Integer\obj\Debug\Degiskenler_Integer.pdb

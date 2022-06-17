@@ -1,0 +1,9 @@
+D:\C#\ÇALIŞMALAR\Int_AritmetikIslem\Int_AritmetikIslem\bin\Debug\Int_AritmetikIslem.exe.config
+D:\C#\ÇALIŞMALAR\Int_AritmetikIslem\Int_AritmetikIslem\bin\Debug\Int_AritmetikIslem.exe
+D:\C#\ÇALIŞMALAR\Int_AritmetikIslem\Int_AritmetikIslem\bin\Debug\Int_AritmetikIslem.pdb
+D:\C#\ÇALIŞMALAR\Int_AritmetikIslem\Int_AritmetikIslem\obj\Debug\Int_AritmetikIslem.Form1.resources
+D:\C#\ÇALIŞMALAR\Int_AritmetikIslem\Int_AritmetikIslem\obj\Debug\Int_AritmetikIslem.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Int_AritmetikIslem\Int_AritmetikIslem\obj\Debug\Int_AritmetikIslem.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Int_AritmetikIslem\Int_AritmetikIslem\obj\Debug\Int_AritmetikIslem.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Int_AritmetikIslem\Int_AritmetikIslem\obj\Debug\Int_AritmetikIslem.exe
+D:\C#\ÇALIŞMALAR\Int_AritmetikIslem\Int_AritmetikIslem\obj\Debug\Int_AritmetikIslem.pdb

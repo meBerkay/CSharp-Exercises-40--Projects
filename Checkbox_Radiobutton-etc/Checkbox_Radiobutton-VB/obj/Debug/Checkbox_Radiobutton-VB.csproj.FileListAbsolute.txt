@@ -1,0 +1,10 @@
+D:\C#\ÇALIŞMALAR\Checkbox_Radiobutton-VB\Checkbox_Radiobutton-VB\bin\Debug\Checkbox_Radiobutton-VB.exe.config
+D:\C#\ÇALIŞMALAR\Checkbox_Radiobutton-VB\Checkbox_Radiobutton-VB\bin\Debug\Checkbox_Radiobutton-VB.exe
+D:\C#\ÇALIŞMALAR\Checkbox_Radiobutton-VB\Checkbox_Radiobutton-VB\bin\Debug\Checkbox_Radiobutton-VB.pdb
+D:\C#\ÇALIŞMALAR\Checkbox_Radiobutton-VB\Checkbox_Radiobutton-VB\obj\Debug\Checkbox_Radiobutton-VB.csproj.AssemblyReference.cache
+D:\C#\ÇALIŞMALAR\Checkbox_Radiobutton-VB\Checkbox_Radiobutton-VB\obj\Debug\Checkbox_Radiobutton_VB.Form1.resources
+D:\C#\ÇALIŞMALAR\Checkbox_Radiobutton-VB\Checkbox_Radiobutton-VB\obj\Debug\Checkbox_Radiobutton_VB.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Checkbox_Radiobutton-VB\Checkbox_Radiobutton-VB\obj\Debug\Checkbox_Radiobutton-VB.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Checkbox_Radiobutton-VB\Checkbox_Radiobutton-VB\obj\Debug\Checkbox_Radiobutton-VB.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Checkbox_Radiobutton-VB\Checkbox_Radiobutton-VB\obj\Debug\Checkbox_Radiobutton-VB.exe
+D:\C#\ÇALIŞMALAR\Checkbox_Radiobutton-VB\Checkbox_Radiobutton-VB\obj\Debug\Checkbox_Radiobutton-VB.pdb

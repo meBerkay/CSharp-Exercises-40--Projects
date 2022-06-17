@@ -1,0 +1,10 @@
+D:\C#\ÇALIŞMALAR\Sinema_Bufe_Uygulama\Sinema_Bufe_Uygulama\bin\Debug\Sinema_Bufe_Uygulama.exe.config
+D:\C#\ÇALIŞMALAR\Sinema_Bufe_Uygulama\Sinema_Bufe_Uygulama\bin\Debug\Sinema_Bufe_Uygulama.exe
+D:\C#\ÇALIŞMALAR\Sinema_Bufe_Uygulama\Sinema_Bufe_Uygulama\bin\Debug\Sinema_Bufe_Uygulama.pdb
+D:\C#\ÇALIŞMALAR\Sinema_Bufe_Uygulama\Sinema_Bufe_Uygulama\obj\Debug\Sinema_Bufe_Uygulama.csproj.AssemblyReference.cache
+D:\C#\ÇALIŞMALAR\Sinema_Bufe_Uygulama\Sinema_Bufe_Uygulama\obj\Debug\Sinema_Bufe_Uygulama.Form1.resources
+D:\C#\ÇALIŞMALAR\Sinema_Bufe_Uygulama\Sinema_Bufe_Uygulama\obj\Debug\Sinema_Bufe_Uygulama.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Sinema_Bufe_Uygulama\Sinema_Bufe_Uygulama\obj\Debug\Sinema_Bufe_Uygulama.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Sinema_Bufe_Uygulama\Sinema_Bufe_Uygulama\obj\Debug\Sinema_Bufe_Uygulama.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Sinema_Bufe_Uygulama\Sinema_Bufe_Uygulama\obj\Debug\Sinema_Bufe_Uygulama.exe
+D:\C#\ÇALIŞMALAR\Sinema_Bufe_Uygulama\Sinema_Bufe_Uygulama\obj\Debug\Sinema_Bufe_Uygulama.pdb

@@ -1,0 +1,9 @@
+D:\C#\ÇALIŞMALAR\Login_Paneli\Login_Paneli\bin\Debug\Login_Paneli.exe.config
+D:\C#\ÇALIŞMALAR\Login_Paneli\Login_Paneli\bin\Debug\Login_Paneli.exe
+D:\C#\ÇALIŞMALAR\Login_Paneli\Login_Paneli\bin\Debug\Login_Paneli.pdb
+D:\C#\ÇALIŞMALAR\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.Form1.resources
+D:\C#\ÇALIŞMALAR\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.exe
+D:\C#\ÇALIŞMALAR\Login_Paneli\Login_Paneli\obj\Debug\Login_Paneli.pdb

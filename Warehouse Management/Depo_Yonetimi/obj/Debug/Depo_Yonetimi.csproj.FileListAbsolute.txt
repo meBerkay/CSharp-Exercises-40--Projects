@@ -1,0 +1,15 @@
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\bin\Debug\Depo_Yonetimi.exe.config
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\bin\Debug\Depo_Yonetimi.exe
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\bin\Debug\Depo_Yonetimi.pdb
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.csproj.AssemblyReference.cache
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.Form1.resources
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.exe
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.pdb
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.Form2.resources
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.Form3.resources
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.Form4.resources
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.Form5.resources
+D:\C#\ÇALIŞMALAR\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.Form6.resources

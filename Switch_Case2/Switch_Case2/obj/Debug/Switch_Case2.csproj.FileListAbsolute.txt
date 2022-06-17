@@ -1,0 +1,10 @@
+D:\C#\ÇALIŞMALAR\Switch_Case2\Switch_Case2\bin\Debug\Switch_Case2.exe.config
+D:\C#\ÇALIŞMALAR\Switch_Case2\Switch_Case2\bin\Debug\Switch_Case2.exe
+D:\C#\ÇALIŞMALAR\Switch_Case2\Switch_Case2\bin\Debug\Switch_Case2.pdb
+D:\C#\ÇALIŞMALAR\Switch_Case2\Switch_Case2\obj\Debug\Switch_Case2.csproj.AssemblyReference.cache
+D:\C#\ÇALIŞMALAR\Switch_Case2\Switch_Case2\obj\Debug\Switch_Case2.Form1.resources
+D:\C#\ÇALIŞMALAR\Switch_Case2\Switch_Case2\obj\Debug\Switch_Case2.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Switch_Case2\Switch_Case2\obj\Debug\Switch_Case2.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Switch_Case2\Switch_Case2\obj\Debug\Switch_Case2.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Switch_Case2\Switch_Case2\obj\Debug\Switch_Case2.exe
+D:\C#\ÇALIŞMALAR\Switch_Case2\Switch_Case2\obj\Debug\Switch_Case2.pdb

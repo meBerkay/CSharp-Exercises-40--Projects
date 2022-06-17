@@ -1,0 +1,10 @@
+D:\C#\ÇALIŞMALAR\girilen_Deger_KDV\girilen_Deger_KDV\bin\Debug\girilen_Deger_KDV.exe.config
+D:\C#\ÇALIŞMALAR\girilen_Deger_KDV\girilen_Deger_KDV\bin\Debug\girilen_Deger_KDV.exe
+D:\C#\ÇALIŞMALAR\girilen_Deger_KDV\girilen_Deger_KDV\bin\Debug\girilen_Deger_KDV.pdb
+D:\C#\ÇALIŞMALAR\girilen_Deger_KDV\girilen_Deger_KDV\obj\Debug\girilen_Deger_KDV.Form1.resources
+D:\C#\ÇALIŞMALAR\girilen_Deger_KDV\girilen_Deger_KDV\obj\Debug\girilen_Deger_KDV.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\girilen_Deger_KDV\girilen_Deger_KDV\obj\Debug\girilen_Deger_KDV.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\girilen_Deger_KDV\girilen_Deger_KDV\obj\Debug\girilen_Deger_KDV.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\girilen_Deger_KDV\girilen_Deger_KDV\obj\Debug\girilen_Deger_KDV.exe
+D:\C#\ÇALIŞMALAR\girilen_Deger_KDV\girilen_Deger_KDV\obj\Debug\girilen_Deger_KDV.pdb
+D:\C#\ÇALIŞMALAR\girilen_Deger_KDV\girilen_Deger_KDV\obj\Debug\girilen_Deger_KDV.csproj.AssemblyReference.cache

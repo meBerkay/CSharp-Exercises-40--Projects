@@ -1,0 +1,9 @@
+D:\C#\ÇALIŞMALAR\Diziler\Diziler\bin\Debug\Diziler.exe.config
+D:\C#\ÇALIŞMALAR\Diziler\Diziler\bin\Debug\Diziler.exe
+D:\C#\ÇALIŞMALAR\Diziler\Diziler\bin\Debug\Diziler.pdb
+D:\C#\ÇALIŞMALAR\Diziler\Diziler\obj\Debug\Diziler.Form1.resources
+D:\C#\ÇALIŞMALAR\Diziler\Diziler\obj\Debug\Diziler.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Diziler\Diziler\obj\Debug\Diziler.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Diziler\Diziler\obj\Debug\Diziler.exe
+D:\C#\ÇALIŞMALAR\Diziler\Diziler\obj\Debug\Diziler.pdb

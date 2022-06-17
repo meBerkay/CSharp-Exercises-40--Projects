@@ -1,0 +1,9 @@
+D:\C#\ÇALIŞMALAR\Timer_Saat\Timer_Saat\bin\Debug\Timer_Saat.exe.config
+D:\C#\ÇALIŞMALAR\Timer_Saat\Timer_Saat\bin\Debug\Timer_Saat.exe
+D:\C#\ÇALIŞMALAR\Timer_Saat\Timer_Saat\bin\Debug\Timer_Saat.pdb
+D:\C#\ÇALIŞMALAR\Timer_Saat\Timer_Saat\obj\Debug\Timer_Saat.Form1.resources
+D:\C#\ÇALIŞMALAR\Timer_Saat\Timer_Saat\obj\Debug\Timer_Saat.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Timer_Saat\Timer_Saat\obj\Debug\Timer_Saat.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Timer_Saat\Timer_Saat\obj\Debug\Timer_Saat.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Timer_Saat\Timer_Saat\obj\Debug\Timer_Saat.exe
+D:\C#\ÇALIŞMALAR\Timer_Saat\Timer_Saat\obj\Debug\Timer_Saat.pdb

@@ -1,0 +1,10 @@
+D:\C#\ÇALIŞMALAR\Döngüler\Döngüler\bin\Debug\Döngüler.exe.config
+D:\C#\ÇALIŞMALAR\Döngüler\Döngüler\bin\Debug\Döngüler.exe
+D:\C#\ÇALIŞMALAR\Döngüler\Döngüler\bin\Debug\Döngüler.pdb
+D:\C#\ÇALIŞMALAR\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.AssemblyReference.cache
+D:\C#\ÇALIŞMALAR\Döngüler\Döngüler\obj\Debug\Döngüler.Form1.resources
+D:\C#\ÇALIŞMALAR\Döngüler\Döngüler\obj\Debug\Döngüler.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Döngüler\Döngüler\obj\Debug\Döngüler.exe
+D:\C#\ÇALIŞMALAR\Döngüler\Döngüler\obj\Debug\Döngüler.pdb

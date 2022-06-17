@@ -1,0 +1,9 @@
+D:\C#\ÇALIŞMALAR\Döngüler Pratik\Döngüler Pratik\bin\Debug\Döngüler Pratik.exe.config
+D:\C#\ÇALIŞMALAR\Döngüler Pratik\Döngüler Pratik\bin\Debug\Döngüler Pratik.exe
+D:\C#\ÇALIŞMALAR\Döngüler Pratik\Döngüler Pratik\bin\Debug\Döngüler Pratik.pdb
+D:\C#\ÇALIŞMALAR\Döngüler Pratik\Döngüler Pratik\obj\Debug\Döngüler_Pratik.Form1.resources
+D:\C#\ÇALIŞMALAR\Döngüler Pratik\Döngüler Pratik\obj\Debug\Döngüler_Pratik.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Döngüler Pratik\Döngüler Pratik\obj\Debug\Döngüler Pratik.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Döngüler Pratik\Döngüler Pratik\obj\Debug\Döngüler Pratik.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Döngüler Pratik\Döngüler Pratik\obj\Debug\Döngüler Pratik.exe
+D:\C#\ÇALIŞMALAR\Döngüler Pratik\Döngüler Pratik\obj\Debug\Döngüler Pratik.pdb

@@ -1,0 +1,9 @@
+D:\C#\ÇALIŞMALAR\Integer_KlavyedenVeri\Integer_KlavyedenVeri\bin\Debug\Integer_KlavyedenVeri.exe.config
+D:\C#\ÇALIŞMALAR\Integer_KlavyedenVeri\Integer_KlavyedenVeri\bin\Debug\Integer_KlavyedenVeri.exe
+D:\C#\ÇALIŞMALAR\Integer_KlavyedenVeri\Integer_KlavyedenVeri\bin\Debug\Integer_KlavyedenVeri.pdb
+D:\C#\ÇALIŞMALAR\Integer_KlavyedenVeri\Integer_KlavyedenVeri\obj\Debug\Integer_KlavyedenVeri.Form1.resources
+D:\C#\ÇALIŞMALAR\Integer_KlavyedenVeri\Integer_KlavyedenVeri\obj\Debug\Integer_KlavyedenVeri.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Integer_KlavyedenVeri\Integer_KlavyedenVeri\obj\Debug\Integer_KlavyedenVeri.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Integer_KlavyedenVeri\Integer_KlavyedenVeri\obj\Debug\Integer_KlavyedenVeri.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Integer_KlavyedenVeri\Integer_KlavyedenVeri\obj\Debug\Integer_KlavyedenVeri.exe
+D:\C#\ÇALIŞMALAR\Integer_KlavyedenVeri\Integer_KlavyedenVeri\obj\Debug\Integer_KlavyedenVeri.pdb

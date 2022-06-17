@@ -1,0 +1,9 @@
+D:\C#\ÇALIŞMALAR\PastaPisirme_Surec\PastaPisirme_Surec\bin\Debug\PastaPisirme_Surec.exe.config
+D:\C#\ÇALIŞMALAR\PastaPisirme_Surec\PastaPisirme_Surec\bin\Debug\PastaPisirme_Surec.exe
+D:\C#\ÇALIŞMALAR\PastaPisirme_Surec\PastaPisirme_Surec\bin\Debug\PastaPisirme_Surec.pdb
+D:\C#\ÇALIŞMALAR\PastaPisirme_Surec\PastaPisirme_Surec\obj\Debug\PastaPisirme_Surec.Form1.resources
+D:\C#\ÇALIŞMALAR\PastaPisirme_Surec\PastaPisirme_Surec\obj\Debug\PastaPisirme_Surec.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\PastaPisirme_Surec\PastaPisirme_Surec\obj\Debug\PastaPisirme_Surec.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\PastaPisirme_Surec\PastaPisirme_Surec\obj\Debug\PastaPisirme_Surec.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\PastaPisirme_Surec\PastaPisirme_Surec\obj\Debug\PastaPisirme_Surec.exe
+D:\C#\ÇALIŞMALAR\PastaPisirme_Surec\PastaPisirme_Surec\obj\Debug\PastaPisirme_Surec.pdb

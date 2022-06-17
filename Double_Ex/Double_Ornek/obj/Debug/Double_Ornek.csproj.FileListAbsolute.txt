@@ -1,0 +1,9 @@
+D:\C#\ÇALIŞMALAR\Double_Ornek\Double_Ornek\bin\Debug\Double_Ornek.exe.config
+D:\C#\ÇALIŞMALAR\Double_Ornek\Double_Ornek\bin\Debug\Double_Ornek.exe
+D:\C#\ÇALIŞMALAR\Double_Ornek\Double_Ornek\bin\Debug\Double_Ornek.pdb
+D:\C#\ÇALIŞMALAR\Double_Ornek\Double_Ornek\obj\Debug\Double_Ornek.Form1.resources
+D:\C#\ÇALIŞMALAR\Double_Ornek\Double_Ornek\obj\Debug\Double_Ornek.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Double_Ornek\Double_Ornek\obj\Debug\Double_Ornek.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Double_Ornek\Double_Ornek\obj\Debug\Double_Ornek.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Double_Ornek\Double_Ornek\obj\Debug\Double_Ornek.exe
+D:\C#\ÇALIŞMALAR\Double_Ornek\Double_Ornek\obj\Debug\Double_Ornek.pdb

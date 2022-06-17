@@ -1,0 +1,10 @@
+D:\C#\ÇALIŞMALAR\Degiskenler_Double\Degiskenler_Double\bin\Debug\Degiskenler_Double.exe.config
+D:\C#\ÇALIŞMALAR\Degiskenler_Double\Degiskenler_Double\bin\Debug\Degiskenler_Double.exe
+D:\C#\ÇALIŞMALAR\Degiskenler_Double\Degiskenler_Double\bin\Debug\Degiskenler_Double.pdb
+D:\C#\ÇALIŞMALAR\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.Form1.resources
+D:\C#\ÇALIŞMALAR\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.exe
+D:\C#\ÇALIŞMALAR\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.pdb
+D:\C#\ÇALIŞMALAR\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.csproj.AssemblyReference.cache

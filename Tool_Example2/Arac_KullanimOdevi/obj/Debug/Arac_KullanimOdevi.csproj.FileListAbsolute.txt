@@ -1,0 +1,9 @@
+D:\C#\ÇALIŞMALAR\Arac_KullanimOdevi\Arac_KullanimOdevi\bin\Debug\Arac_KullanimOdevi.exe.config
+D:\C#\ÇALIŞMALAR\Arac_KullanimOdevi\Arac_KullanimOdevi\bin\Debug\Arac_KullanimOdevi.exe
+D:\C#\ÇALIŞMALAR\Arac_KullanimOdevi\Arac_KullanimOdevi\bin\Debug\Arac_KullanimOdevi.pdb
+D:\C#\ÇALIŞMALAR\Arac_KullanimOdevi\Arac_KullanimOdevi\obj\Debug\Arac_KullanimOdevi.Form1.resources
+D:\C#\ÇALIŞMALAR\Arac_KullanimOdevi\Arac_KullanimOdevi\obj\Debug\Arac_KullanimOdevi.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Arac_KullanimOdevi\Arac_KullanimOdevi\obj\Debug\Arac_KullanimOdevi.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Arac_KullanimOdevi\Arac_KullanimOdevi\obj\Debug\Arac_KullanimOdevi.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Arac_KullanimOdevi\Arac_KullanimOdevi\obj\Debug\Arac_KullanimOdevi.exe
+D:\C#\ÇALIŞMALAR\Arac_KullanimOdevi\Arac_KullanimOdevi\obj\Debug\Arac_KullanimOdevi.pdb

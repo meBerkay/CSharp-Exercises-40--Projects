@@ -1,0 +1,9 @@
+D:\C#\ÇALIŞMALAR\Do_While\Do_While\bin\Debug\Do_While.exe.config
+D:\C#\ÇALIŞMALAR\Do_While\Do_While\bin\Debug\Do_While.exe
+D:\C#\ÇALIŞMALAR\Do_While\Do_While\bin\Debug\Do_While.pdb
+D:\C#\ÇALIŞMALAR\Do_While\Do_While\obj\Debug\Do_While.Form1.resources
+D:\C#\ÇALIŞMALAR\Do_While\Do_While\obj\Debug\Do_While.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Do_While\Do_While\obj\Debug\Do_While.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Do_While\Do_While\obj\Debug\Do_While.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Do_While\Do_While\obj\Debug\Do_While.exe
+D:\C#\ÇALIŞMALAR\Do_While\Do_While\obj\Debug\Do_While.pdb

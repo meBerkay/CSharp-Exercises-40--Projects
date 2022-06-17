@@ -1,0 +1,10 @@
+D:\C#\ÇALIŞMALAR\Degiskenler_Char\Degiskenler_Char\bin\Debug\Degiskenler_Char.exe.config
+D:\C#\ÇALIŞMALAR\Degiskenler_Char\Degiskenler_Char\bin\Debug\Degiskenler_Char.exe
+D:\C#\ÇALIŞMALAR\Degiskenler_Char\Degiskenler_Char\bin\Debug\Degiskenler_Char.pdb
+D:\C#\ÇALIŞMALAR\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.csproj.AssemblyReference.cache
+D:\C#\ÇALIŞMALAR\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.Form1.resources
+D:\C#\ÇALIŞMALAR\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.exe
+D:\C#\ÇALIŞMALAR\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.pdb

@@ -1,0 +1,10 @@
+D:\C#\ÇALIŞMALAR\Arac_Odevi\Arac_Odevi\bin\Debug\Arac_Odevi.exe.config
+D:\C#\ÇALIŞMALAR\Arac_Odevi\Arac_Odevi\bin\Debug\Arac_Odevi.exe
+D:\C#\ÇALIŞMALAR\Arac_Odevi\Arac_Odevi\bin\Debug\Arac_Odevi.pdb
+D:\C#\ÇALIŞMALAR\Arac_Odevi\Arac_Odevi\obj\Debug\Arac_Odevi.csproj.AssemblyReference.cache
+D:\C#\ÇALIŞMALAR\Arac_Odevi\Arac_Odevi\obj\Debug\Arac_Odevi.Form1.resources
+D:\C#\ÇALIŞMALAR\Arac_Odevi\Arac_Odevi\obj\Debug\Arac_Odevi.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Arac_Odevi\Arac_Odevi\obj\Debug\Arac_Odevi.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Arac_Odevi\Arac_Odevi\obj\Debug\Arac_Odevi.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Arac_Odevi\Arac_Odevi\obj\Debug\Arac_Odevi.exe
+D:\C#\ÇALIŞMALAR\Arac_Odevi\Arac_Odevi\obj\Debug\Arac_Odevi.pdb

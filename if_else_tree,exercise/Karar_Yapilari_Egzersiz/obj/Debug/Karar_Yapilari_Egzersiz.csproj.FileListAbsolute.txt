@@ -1,0 +1,9 @@
+D:\C#\ÇALIŞMALAR\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\bin\Debug\Karar_Yapilari_Egzersiz.exe.config
+D:\C#\ÇALIŞMALAR\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\bin\Debug\Karar_Yapilari_Egzersiz.exe
+D:\C#\ÇALIŞMALAR\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\bin\Debug\Karar_Yapilari_Egzersiz.pdb
+D:\C#\ÇALIŞMALAR\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.Form1.resources
+D:\C#\ÇALIŞMALAR\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.Properties.Resources.resources
+D:\C#\ÇALIŞMALAR\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.csproj.GenerateResource.cache
+D:\C#\ÇALIŞMALAR\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.csproj.CoreCompileInputs.cache
+D:\C#\ÇALIŞMALAR\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.exe
+D:\C#\ÇALIŞMALAR\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.pdb
